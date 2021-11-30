@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning for Credit Card Fraud Detection
 
 
-* [How to create new gym environment in openai](https://github.com/openai/gym/blob/master/docs/creating-environments.md)
+* [How to create new gym environment in openai](https://github.com/openai/gym/blob/master/docs/creating_environments.md)
 
 # Installation 
 ```
